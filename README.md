@@ -1,2 +1,2 @@
 # Variational-Encoder
-Variational Encoder with MNIST
+Variational Encoder und GANs with MNIST
